@@ -1,7 +1,7 @@
 # Explanation of Raspy-Makey_MIDI Python Code
 
 ## Introduction
-This Python code is designed to run on a Raspberry Pi Pico and transform it into a MIDI controller using an Adafruit MPR121 capacitive touch sensor. Below, we'll provide an explanation of each section of the code.
+This Python code is designed to run on a Raspberry Pi Pico and transform it into a MIDI controller using an Adafruit MPR121 capacitive touch sensor. Below, I'll provide an explanation of each section of the code.
 
 ## Importing Libraries
 ```python
