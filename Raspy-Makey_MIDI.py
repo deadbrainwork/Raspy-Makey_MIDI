@@ -1,3 +1,4 @@
+# Importing the required libraries
 import time
 import board
 import busio
@@ -18,7 +19,7 @@ NOTE_OFF = 0x80
 MIDI_CHANNEL = 0
 MIDI_PORT = usb_midi.ports[0]
 
-# Defining MIDI note mappings for each touch pad
+# Defining MIDI note mappings for each touch pad,these can be customized as per your needs
 note_mappings = {
     0: 60,
     1: 62,
