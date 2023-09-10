@@ -9,7 +9,7 @@ Fun Fact-I originally made this as a fun project for my 5 yr old nephew to play 
 
 ## Prerequisites
 Before running this script, make sure you have the following hardware and software prerequisites:
-- Raspberry Pi (any model with GPIO pins should work).
+- Raspberry Pi Pico (or Pico W).
 - Adafruit MPR121 capacitive touch sensor.
 - Appropriate connections between Raspberry Pi and MPR121 using Jumper cables or breadboard or using the custom toner transfer PCB file included with this.
 - Python 3 or newer installed on your computer.
