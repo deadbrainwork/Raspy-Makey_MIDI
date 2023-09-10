@@ -52,8 +52,8 @@ This project is licensed under the CC License - see the [LICENSE](LICENSE) file 
 
 ## Credits
 
-This project was inspired by the original Makey Makey.
-
-Happy hacking and music-making with Raspy-Makey!
+This project was inspired by the original [Makey Makey](https://makeymakey.com/).
 
 
+## 
+## Happy hacking and music-making with Raspy-Makey!
